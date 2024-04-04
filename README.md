@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm a Teacher
+### 📫 Check my works in [richasdy.my.id](https://richasdy.my.id/)
 
 <!--
 **richasdy/richasdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
