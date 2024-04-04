@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## I'm a Teacher 👨‍🏫
 ## 🏘️ Check my works in [richasdy.my.id](https://richasdy.my.id/)
 
