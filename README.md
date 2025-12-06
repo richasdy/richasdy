@@ -1,6 +1,6 @@
-### 👋 Hi there, It's me.
-## 👨🏻‍🏫 teacher by day and
-## 👨🏻‍💻 programmer by night.
+# 👋 Hi there, It's me.
+- 👨🏻‍🏫 teacher by day and
+- 👨🏻‍💻 programmer by night.
 ## 🏘️ Check my updates in [richasdy.my.id](https://richasdy.my.id/)
 
 <!--
