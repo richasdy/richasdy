@@ -1,7 +1,7 @@
-- ### 👋 Hi there, It's me.
-- ### 👨🏻‍🏫 teacher by day and
-- ### 👨🏻‍💻 programmer by night.
-- ### 🏘️ Check my updates in [richasdy.my.id](https://richasdy.my.id/)
+### 👋 Hi there, It's me.
+## 👨🏻‍🏫 teacher by day and
+## 👨🏻‍💻 programmer by night.
+## 🏘️ Check my updates in [richasdy.my.id](https://richasdy.my.id/)
 
 <!--
 **richasdy/richasdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
